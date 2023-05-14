@@ -1,3 +1,40 @@
 dd{
 	padding: 10px;
 }
+
+h2{
+	color: #4A86E8;
+}
+
+p{
+	color: #E8E000;
+	width: 500px;
+}
+
+span{
+	color: #9D61E2;
+}
+
+li{
+	color: #F99200;
+}
+
+.list{
+	color: #E20400;
+}
+
+ol li{
+	color: #000;
+}
+
+#ol_list{
+	color: #31E200;
+}
+
+.lorem_list{
+	color: #E204DE;
+}
+
+.lorem_list.other{
+	color: #04E2DB;
+}
